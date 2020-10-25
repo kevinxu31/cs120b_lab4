@@ -1,7 +1,7 @@
 /*	Author: lxu092
  *  Partner(s) Name: Luofeng Xu
- *	Lab Section:
- *	Assignment: Lab #  Exercise #
+ *	Lab Section:022
+ *	Assignment: Lab 4  Exercise 2
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
